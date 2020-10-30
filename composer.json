@@ -1,12 +1,11 @@
 {
-    "name": "divineomega/artisan-menu",
+    "name": "trafficfox/artisan-menu",
     "description": "Use Artisan via an elegant console GUI",
     "require": {
         "php": ">=7.0",
         "php-school/cli-menu": "^3.0",
         "divineomega/json-key-value-store": "^1.0",
-        "ext-json": "*",
-        "laravel/framework": "^5.1||^6.0"
+        "ext-json": "*"
     },
     "autoload": {
         "psr-4": {
